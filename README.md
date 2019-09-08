@@ -33,4 +33,4 @@ stage2: python test_json_stage2.py
 
 ### ensemble
 stage1: python ensemble_forsub1.py
-stage1: python ensemble_forsub1_stage2.py
+stage2: python ensemble_forsub1_stage2.py
