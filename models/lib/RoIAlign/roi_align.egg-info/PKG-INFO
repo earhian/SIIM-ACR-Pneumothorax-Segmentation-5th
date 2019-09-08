@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: roi-align
+Version: 0.0.1
+Summary: PyTorch version of RoIAlign
+Home-page: https://github.com/longcw/RoIAlign.pytorch
+Author: Long Chen
+Author-email: longch1024@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
