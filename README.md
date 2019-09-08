@@ -16,8 +16,8 @@ https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107603#la
 ./input/dicom-images-test  
 
 ## NIH data
-download NIH dataset
-https://www.kaggle.com/nih-chest-xrays/data
+download NIH dataset             
+https://www.kaggle.com/nih-chest-xrays/data             
 common.py: EXDATAPATH = './input/NIH/images/*.png'
 
 
