@@ -28,9 +28,9 @@ python train_semi.py --modelname="seresnext50" --fold_index=0 --batch_size=16 --
 
 ### Test  
 
-stage1: python test_json.py
-stage2: python test_json_stage2.py
+stage1: python test_json.py           
+stage2: python test_json_stage2.py       
 
 ### ensemble
-stage1: python ensemble_forsub1.py
+stage1: python ensemble_forsub1.py           
 stage2: python ensemble_forsub1_stage2.py
