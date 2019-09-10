@@ -410,7 +410,7 @@ if __name__ == '__main__':
 
         args = parser.parse_args()
         model_name = args.modelname
-        checkPoint_start = args.fold_index
+        checkPoint_start = args.checkPoint_start
         fold_index = args.fold_index
         lr = args.lr
         batch_size = args.batch_size
